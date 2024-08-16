@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TodoApp.Tests
-build_property.ProjectDir = C:\Users\z004yw6y\Git\Devops\CICDWORKFLOWKT\TodoApp.Tests\
+build_property.ProjectDir = C:\Users\z004yw6y\Git\Project002\TodoApp.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
